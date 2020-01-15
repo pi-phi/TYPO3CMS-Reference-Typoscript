@@ -180,7 +180,7 @@ table-tags (ln 9). :
    :linenos:
 
    20 = TEXT
-   20.stdWrap {
+   20 {
        field = bodytext
        split {
            token.char = 10
